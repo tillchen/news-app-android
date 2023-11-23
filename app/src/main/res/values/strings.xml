@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">news</string>
+    <string name="thumbnail_description">Thumbnail for a news item</string>
+    <string name="detail_image_description">Image for a news item</string>
+</resources>
